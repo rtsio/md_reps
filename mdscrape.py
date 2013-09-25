@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # Rostislav Tsiomenko
-# tsiomr1@umbc.edu
+# rostislav.tsiomenko@gmail.com
 # Scrapes Maryland State Legislature site
 # TODO: use a proper parser (like BeautifulSoup)
 import urllib2
